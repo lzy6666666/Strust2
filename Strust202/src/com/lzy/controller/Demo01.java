@@ -26,5 +26,7 @@ public class Demo01 extends ActionSupport{
         }
         actionContext.put("pass","dwed ");
         return SUCCESS;
+
+        /**/
     }
 }
